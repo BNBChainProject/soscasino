@@ -9,10 +9,10 @@ export function Home() {
     <div className={styles.banner}>
       <Section>
         <h2>
-          $SOS Casino
+        Welcome To StakeSol
         </h2>
         <p style={{ wordWrap: 'break-word' }}>
-          An open source, decentralized casino built on Gamba.
+        Your decentralized Solana casino, lightning fast and no registration needed!
         </p>
         <div style={{ display: 'flex', gap: '10px' }}>
           <Button
@@ -22,7 +22,7 @@ export function Home() {
             target="_blank"
             icon={<Icon.ExternalLink />}
           >
-            Buy $SOS
+            Buy $SSOL
           </Button>
         </div>
       </Section>
