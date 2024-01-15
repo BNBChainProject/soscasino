@@ -18,7 +18,7 @@ export function Home() {
           <Button
             as="a"
             color="white"
-            href="https://raydium.io/swap/?inputCurrency=sol&outputCurrency=2mnGSkXH1h6x5qmhwoQzAZDKa83vnRf8wNkNWVbdv7w5&outputSymbol=%24S0S&fixed=in"
+            href="https://raydium.io/swap/xxxxxxxxxxxxx"
             target="_blank"
             icon={<Icon.ExternalLink />}
           >
