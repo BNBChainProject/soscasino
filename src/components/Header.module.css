@@ -25,7 +25,6 @@
 
 .logo {
   color: var(--text-color);
-  display: flex;
   align-items: center;
   gap: 1em;
   transition: background .2s;
