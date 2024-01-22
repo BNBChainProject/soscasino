@@ -29,8 +29,8 @@ export default defineConfig(() => ({
       base: '/',
       includeAssets: ['/favicon.png'],
       manifest: {
-        name: 'StakeSol',
-        short_name: 'StakeSol',
+        name: 'BeeBets',
+        short_name: 'BeeBets',
         theme_color: '#FF5555',
         background_color: '#000000',
         display: 'standalone',

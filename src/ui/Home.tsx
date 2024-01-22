@@ -9,7 +9,7 @@ export function Home() {
     <div className={styles.banner}>
       <Section>
         <h2>
-        Welcome To StakeSol
+        Welcome To BeeBets
         </h2>
         <p style={{ wordWrap: 'break-word' }}>
         Your decentralized Solana casino, lightning fast and no registration needed!
@@ -22,7 +22,7 @@ export function Home() {
             target="_blank"
             icon={<Icon.ExternalLink />}
           >
-            Buy $SSOL
+            Buy $BeeBets
           </Button>
         </div>
       </Section>

@@ -8,7 +8,7 @@ export const Header: React.FC<React.PropsWithChildren> = ({ children }) => {
       <div>
         <div style={{ display: 'flex', gap: '20px', alignItems: 'center' }}>
           <NavLink className={styles.logo} to="/">
-            <img alt="StakeSol logo" src="/logo.png" />
+            <img alt="BeeBets logo" src="/logo.png" />
           </NavLink>
         </div>
         <div style={{ display: 'flex', gap: '20px', alignItems: 'center' }}>
