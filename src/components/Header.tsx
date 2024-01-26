@@ -13,8 +13,11 @@ export const Header: React.FC<React.PropsWithChildren> = ({ children }) => {
         </div>
         <div style={{ display: 'flex', gap: '20px', alignItems: 'center' }}>
           <div className={styles.externalLinks}>
-            <a href="https://t.me/xxxxxxxx" target="_blank" rel="noreferrer">
+            <a href="https://t.me/Beebets_sol" target="_blank" rel="noreferrer">
               Telegram
+            </a>
+            <a href="https://twitter.com/Beebets_Sol" target="_blank" rel="noreferrer">
+              Twitter
             </a>
             <a href="https://dexscreen.com/xxxxxx" target="_blank" rel="noreferrer">
               Dexscreen
